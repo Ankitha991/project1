@@ -10,7 +10,6 @@ public class Even
 		}
 		else
 		{
-			//System.out.println(n+" is odd number");
 			return false;
 		}
 	}

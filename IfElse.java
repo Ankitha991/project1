@@ -14,6 +14,7 @@ public class IfElse
 		{
 			System.out.println("Number is lesser than other number");
 		}
+		System.out.println(i);
 	
 	}
 

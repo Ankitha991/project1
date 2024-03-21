@@ -5,7 +5,6 @@ public class Even
 	{
 		if(n%2==0)
 		{
-			//System.out.println(n+" is even number");
 			return true;
 		}
 		else
